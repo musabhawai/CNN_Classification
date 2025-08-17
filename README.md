@@ -1,5 +1,9 @@
 # CNN Classification – Cats vs Dogs 🐱🐶
 
+## 📂 Dataset
+The dataset used in this project is available on Kaggle:  
+👉 [Cats and Dogs Dataset](https://www.kaggle.com/datasets/dineshpiyasamara/cats-and-dogs-for-classification)
+
 ## 🧠 Overview
 This project implements a *Convolutional Neural Network (CNN)* for *image classification* using TensorFlow & Keras.  
 The dataset consists of *4000 training images* and *1000 testing images* of *cats and dogs*.  
